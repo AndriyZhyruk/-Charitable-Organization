@@ -53,7 +53,7 @@ a{
     height: 70px;
 }
 .container-main{
-    background-image: url(/images/Rectangle\ 8.png);
+    background-image: url(./images/Rectangle\ 8.png);
     background-repeat: no-repeat;
     width: 1600px;
     height: 900px;
@@ -306,7 +306,7 @@ hr{
 }
 .tips{
     margin-left: -730px;
-    background-image: url(/images/Rectangle\ 13.png);
+    background-image: url(./images/Rectangle\ 13.png);
     width: 1600px;
     height: 408px;
     text-align: center;
